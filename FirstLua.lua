@@ -5,3 +5,8 @@ print(type(type)) --> function
 print(type(true)) --> boolean
 print(type(nil)) --> nil
 print(type(type(X))) --> string 
+
+
+
+testA=111
+local testLocal=222
